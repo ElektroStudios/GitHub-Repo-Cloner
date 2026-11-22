@@ -41,7 +41,7 @@ windowsapplication
   <br>
   <br>
     <a href="https://ci.appveyor.com/project/ElektroStudios/github-repo-cloner"><img src="https://ci.appveyor.com/api/projects/status/github/ElektroStudios/GitHub-repo-cloner?svg=true" alt="AppVeyor CI"></a>
-    <a href="https://sonarcloud.io/project/configuration?id=ElektroStudios_GitHub-Repo-Cloner"><img src="https://sonarcloud.io/api/project_badges/measure?project=ElektroStudios_GitHub-repo-cloner&metric=alert_status" alt="SonarCloud Quality Gate"></a>
+    <a href="https://sonarcloud.io/project/configuration?id=ElektroStudios_GitHub-Repo-Cloner"><img src="https://sonarcloud.io/api/project_badges/measure?project=ElektroStudios_GitHub-Repo-Cloner&metric=alert_status" alt="SonarCloud Quality Gate"></a>
     <a href="https://github.com/ElektroStudios/GitHub-repo-cloner/releases/latest"><img src="https://img.shields.io/github/v/release/ElektroStudios/GitHub-repo-cloner" alt="Latest Release"></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://img.shields.io/badge/language-VB.NET-purple.svg?logo=visualbasic" alt="Language"></a>
     <a href="https://learn.microsoft.com/en-us/windows/apps/"><img src="https://img.shields.io/badge/platform-Windows-lightgray.svg" alt="Platform"></a>
@@ -71,23 +71,22 @@ Keeping a local copy of your GitHub projects can mean tracking down dozens of cl
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="/Images/screenshot1.png" width="48%" alt="Screenshot 1" />
+  <img src="/Images/screenshot1.png" width="90%" alt="Screenshot 1" />
   <br><br>
-  <img src="/Images/screenshot2.png" width="48%" alt="Screenshot 2" />
+  <img src="/Images/screenshot2.png" width="90%" alt="Screenshot 2" />
 </p>
 
 ## 🤖 Features
 
 - Clone public repositories owned by the account in a single batch, with an **Include forks** option (off by default).
 - Choose the destination folder and an optional delay between downloads.
-- Track total, processed, cloned, skipped, and failed repositories, along with the current Git phase and transfer statistics.
+- Track total, processed, and failed repositories, along with the current Git phase and transfer statistics.
 - Skip existing destinations so you can repeat a batch without replacing local copies.
-- Cancel a batch and keep completed clones.
-- Review retries and errors in the activity log.
+- Monitor every operation in real time with a built-in activity log.
 
 ## ⚠️ Limitations
 
-- The app works with public repositories. Existing local copies are skipped.
+- The app works with public repositories.
 - Repositories are cloned one at a time. GitHub API limits can interrupt discovery and the activity log reports when you can retry.
 - Received size and speed are shown when Git reports them. The final transfer size may be unavailable beforehand.
 
