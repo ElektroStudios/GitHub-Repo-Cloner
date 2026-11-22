@@ -2,7 +2,7 @@
 # CUSTOMIZABLE TEMPLATE REPOSITORY VARIABLES
 # 
 env:
-  SOLUTION_NAME: "GitHub-Repo-Cloner"
+  SOLUTION_NAME: "GitHub Repo Cloner"
   SOLUTION_EXT:  "slnx"
   SONAR_PROJECT_KEY:  "ElektroStudios_GitHub-Repo-Cloner"
   SONAR_ORGANIZATION: "elektrostudios"
