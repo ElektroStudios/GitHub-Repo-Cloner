@@ -72,6 +72,7 @@ Keeping a local copy of your GitHub projects can mean tracking down dozens of cl
 
 <p align="center">
   <img src="/Images/screenshot1.png" width="48%" alt="Screenshot 1" />
+  <br><br>
   <img src="/Images/screenshot2.png" width="48%" alt="Screenshot 2" />
 </p>
 
