@@ -1,11 +1,7 @@
 ﻿<!-- Common Project Tags:
-command-line 
-console-applications 
 desktop-app 
 desktop-application 
 dotnet 
-dotnet-core 
-netcore 
 netframework 
 netframework48 
 tool 
@@ -18,41 +14,42 @@ windows-application
 windows-applications 
 windows-forms 
 winforms 
+windowsapp 
+desktopapp 
+desktopapplication 
+windowsapplication 
  -->
 
 <div align="center">
-  <img src="/Images/App.ico" width="100" alt="Logo">
-  
-  <h1>PROJECT NAME</h1>
+  <img src="/Images/App.ico" width="100" alt="FIV Logo">
 
-### PROJECT DESCRIPTION
+  <h1>GitHub Repo Cloner</h1>
+
+### Clone an account’s public GitHub repositories in one go.
 
 </div>
 
 ------------------
 
 <p align="center">
-    <a href="https://github.com/ElektroStudios/PROJECT_NAME/network/members"><img src="https://img.shields.io/github/forks/ElektroStudios/PROJECT_NAME.svg?style=social&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg%3D%3D&label=%F0%9F%8D%B4%20Forks" alt="Forks"></a>&nbsp;
-    <a href="https://github.com/ElektroStudios/PROJECT_NAME/graphs/contributors"><img src="https://img.shields.io/github/contributors/ElektroStudios/PROJECT_NAME.svg?style=social&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg%3D%3D&label=%F0%9F%91%A5%20Contributors" alt="Contributors"></a>&nbsp;
+    <a href="https://github.com/ElektroStudios/GitHub-Repo-Cloner/network/members"><img src="https://img.shields.io/github/forks/ElektroStudios/GitHub-Repo-Cloner.svg?style=social&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg%3D%3D&label=%F0%9F%8D%B4%20Forks" alt="Forks"></a>&nbsp;
+    <a href="https://github.com/ElektroStudios/GitHub-Repo-Cloner/graphs/contributors"><img src="https://img.shields.io/github/contributors/ElektroStudios/GitHub-Repo-Cloner.svg?style=social&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg%3D%3D&label=%F0%9F%91%A5%20Contributors" alt="Contributors"></a>&nbsp;
     <a href="https://github.com/ElektroStudios"><img src="https://img.shields.io/github/followers/ElektroStudios.svg?style=social&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg%3D%3D&label=%F0%9F%91%A4%20Followers" alt="Followers"></a>&nbsp;
-    <a href="https://github.com/ElektroStudios/PROJECT_NAME/watchers"><img src="https://img.shields.io/github/watchers/ElektroStudios/PROJECT_NAME.svg?style=social&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg%3D%3D&label=%F0%9F%91%80%20Watchers" alt="Watchers"></a>
+    <a href="https://github.com/ElektroStudios/GitHub-Repo-Cloner/watchers"><img src="https://img.shields.io/github/watchers/ElektroStudios/GitHub-Repo-Cloner.svg?style=social&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg%3D%3D&label=%F0%9F%91%80%20Watchers" alt="Watchers"></a>
     <a href="https://github.com/sponsors/ElektroStudios"><img src="https://img.shields.io/github/sponsors/ElektroStudios.svg?style=social&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg%3D%3D&label=%F0%9F%92%96%20Sponsors" alt="Sponsors"></a>&nbsp;
-    <a href="https://github.com/ElektroStudios/PROJECT_NAME/stargazers"><img src="https://img.shields.io/github/stars/ElektroStudios/PROJECT_NAME.svg?style=social&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg%3D%3D&label=%E2%AD%90%20Stars" alt="Stars"></a>
+    <a href="https://github.com/ElektroStudios/GitHub-Repo-Cloner/stargazers"><img src="https://img.shields.io/github/stars/ElektroStudios/GitHub-Repo-Cloner.svg?style=social&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg%3D%3D&label=%E2%AD%90%20Stars" alt="Stars"></a>
   <br>
   <br>
-    <a href="https://ci.appveyor.com/project/ElektroStudios/PROJECT_NAME"><img src="https://ci.appveyor.com/api/projects/status/github/ElektroStudios/PROJECT_NAME?svg=true" alt="AppVeyor CI"></a>
-    <a href="https://sonarcloud.io/summary/new_code?id=ElektroStudios_PROJECT_NAME"><img src="https://sonarcloud.io/api/project_badges/measure?project=ElektroStudios_PROJECT_NAME&metric=alert_status" alt="SonarCloud Quality Gate"></a>
-    <a href="https://github.com/ElektroStudios/PROJECT_NAME/releases/latest"><img src="https://img.shields.io/github/v/release/ElektroStudios/PROJECT_NAME" alt="Latest Release"></a>
+    <a href="https://github.com/ElektroStudios/GitHub-Repo-Cloner/releases/latest"><img src="https://img.shields.io/github/v/release/ElektroStudios/GitHub-Repo-Cloner" alt="Latest Release"></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/"><img src="https://img.shields.io/badge/language-VB.NET-purple.svg?logo=visualbasic" alt="Language"></a>
     <a href="https://learn.microsoft.com/en-us/windows/apps/"><img src="https://img.shields.io/badge/platform-Windows-lightgray.svg" alt="Platform"></a>
-    <a href="LICENSE"><img src="https://img.shields.io/github/license/ElektroStudios/PROJECT_NAME" alt="License"></a>
   <br>
-    <a href="https://github.com/ElektroStudios/PROJECT_NAME/archive/HEAD.zip"><img src="https://img.shields.io/github/repo-size/ElektroStudios/PROJECT_NAME" alt="Repo size"></a>
-    <a href="https://somsubhra.github.io/github-release-stats/?username=ElektroStudios&repository=PROJECT_NAME"><img src="https://img.shields.io/github/downloads/ElektroStudios/PROJECT_NAME/total.svg?label=total%20downloads" alt="Total Downloads"></a>
-    <a href="https://github.com/ElektroStudios/PROJECT_NAME/commits"><img src="https://img.shields.io/github/last-commit/ElektroStudios/PROJECT_NAME" alt="Last commit"></a>
-    <a href="https://github.com/ElektroStudios/PROJECT_NAME/pulls"><img src="https://img.shields.io/github/issues-pr/ElektroStudios/PROJECT_NAME" alt="Pull Requests"></a>
-    <a href="https://github.com/ElektroStudios/PROJECT_NAME/issues?q=is%3Aissue+is%3Aopen"><img src="https://img.shields.io/github/issues/ElektroStudios/PROJECT_NAME?color=blue" alt="Open Issues"></a><a href="https://github.com/ElektroStudios/PROJECT_NAME/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/ElektroStudios/PROJECT_NAME?label=&color=28a745" alt="Closed Issues"></a>
-    <a href="https://github.com/ElektroStudios/PROJECT_NAME/pulse"><img src="https://img.shields.io/badge/maintained-yes-green.svg" alt="Maintenance"></a>
+    <a href="https://github.com/ElektroStudios/GitHub-Repo-Cloner/archive/HEAD.zip"><img src="https://img.shields.io/github/repo-size/ElektroStudios/GitHub-Repo-Cloner" alt="Repo size"></a>
+    <a href="https://somsubhra.github.io/github-release-stats/?username=ElektroStudios&repository=GitHub-Repo-Cloner"><img src="https://img.shields.io/github/downloads/ElektroStudios/GitHub-Repo-Cloner/total.svg?label=total%20downloads" alt="Total Downloads"></a>
+    <a href="https://github.com/ElektroStudios/GitHub-Repo-Cloner/commits"><img src="https://img.shields.io/github/last-commit/ElektroStudios/GitHub-Repo-Cloner" alt="Last commit"></a>
+    <a href="https://github.com/ElektroStudios/GitHub-Repo-Cloner/pulls"><img src="https://img.shields.io/github/issues-pr/ElektroStudios/GitHub-Repo-Cloner" alt="Pull Requests"></a>
+    <a href="https://github.com/ElektroStudios/GitHub-Repo-Cloner/issues?q=is%3Aissue+is%3Aopen"><img src="https://img.shields.io/github/issues/ElektroStudios/GitHub-Repo-Cloner?color=blue" alt="Open Issues"></a><a href="https://github.com/ElektroStudios/GitHub-Repo-Cloner/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed/ElektroStudios/GitHub-Repo-Cloner?label=&color=28a745" alt="Closed Issues"></a>
+    <a href="https://github.com/ElektroStudios/GitHub-Repo-Cloner/pulse"><img src="https://img.shields.io/badge/maintained-yes-green.svg" alt="Maintenance"></a>
   <br>
   <br>
     <a href="https://en.wikipedia.org/wiki/Spanish_Empire"><img src="https://img.shields.io/badge/Made_in-Spain_%F0%9F%87%AA%F0%9F%87%B8-AA151B?style=flat" alt="Made in Spain"></a>
@@ -62,64 +59,78 @@ winforms
 
 ## 👋 Introduction
 
-INTRODUCTION TEXT
+GitHub Repo Cloner is a Windows desktop app that clones the public repositories owned by a GitHub user or organization. Enter the account name, choose where to store the repositories, and follow the batch from a single window.
 
 ## 💡 Motivation
 
-MOTIVATION TEXT
-
-##### ⚡ The Real Question
-###### REAL QUESTION TEXT
+Keeping a local copy of your GitHub projects can mean tracking down dozens of clone URLs and running the same command over and over. This tool automates discovery and cloning, so you can repeat the operation when new projects appear.
 
 ## 🖼️ Screenshots
 
-![screenshot](/Images/screenshot.png)
-
-## 🎦 Videos
-
-<!-- Download a recorded video by clicking [here](/Video/video.mp4) -->
-
-<!-- See a recorded video by clicking on the following button:
-[![PROJECT_NAME DEMO VIDEO](Images/demo_video.jpg)](https://www.youtube.com/watch?v=XXXXXXXXX)  -->
+<p align="center">
+  <img src="/Images/screenshot1.png" width="48%" alt="Screenshot 1" />
+  <img src="/Images/screenshot2.png" width="48%" alt="Screenshot 2" />
+</p>
 
 ## 🤖 Features
 
-FEATURES TEXT
+- Clone public repositories owned by the account in a single batch, with an **Include forks** option (off by default).
+- Choose the destination folder and an optional delay between downloads.
+- Track total, processed, cloned, skipped, and failed repositories, along with the current Git phase and transfer statistics.
+- Skip existing destinations so you can repeat a batch without replacing local copies.
+- Cancel a batch and keep completed clones.
+- Review retries and errors in the activity log.
 
 ## ⚠️ Limitations
 
-LIMITATIONS TEXT
+- The app works with public repositories. Existing local copies are skipped.
+- Repositories are cloned one at a time. GitHub API limits can interrupt discovery and the activity log reports when you can retry.
+- Received size and speed are shown when Git reports them. The final transfer size may be unavailable beforehand.
+
+<details>
+<summary>Optional advanced setup for GitHub request limits</summary>
+
+You can clone public repositories without signing in to GitHub or setting up a token.
+
+If GitHub limits how often you can list repositories, open **API token…**, paste a GitHub personal access token, and choose **Save**. Windows encrypts the saved token for your Windows user account. Open the same dialog to replace or remove it. Removing the local copy leaves the token itself active on GitHub.
+
+If you previously configured the Windows environment variable `GITHUB_TOKEN`, the app uses it only when there is no token saved in the app.
+</details>
 
 ## 📝 Requirements
 
-- Microsoft Windows OS.
+- Windows with [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48) or a compatible later version.
+- [Git for Windows](https://git-scm.com/install/windows).
+- An internet connection with access to GitHub.
 
 ## 🚀 Getting Started
 
-1. Navigate to the **[Releases page](https://github.com/ElektroStudios/PROJECT_NAME/releases/latest)**.
-2. Download the latest `.zip` archive or the `.exe` setup installer, depending on your preference.
-3. If you downloaded the `.zip` archive, extract its contents to your preferred directory.
-   <br> 
-   If you downloaded the `.exe` file, run it and follow the installation wizard.
-4. Run the executable file to launch the application.
+1. Download the ZIP from [Releases](https://github.com/ElektroStudios/GitHub-Repo-Cloner/releases) and extract it.
+2. Open `Windows/GitHub Repo Cloner.exe`. Keep all supplied DLLs and the configuration file alongside the executable.
+3. Enter the account name, choose the destination, and set the delay. Use `0` seconds to remove the pause.
+4. Select **Start cloning**. Select **Cancel** to stop an active batch.
+
+### Build and test
+
+Open `GitHub Repo Cloner.slnx` in Visual Studio with the .NET desktop development workload and the .NET Framework 4.8 targeting pack. Restore NuGet packages, build, and run the xUnit v3 tests from Test Explorer.
 
 ## 🔄 Change Log
 
-Explore the complete list of changes, bug fixes, and improvements across different releases by clicking [here](/Docs/CHANGELOG.md).
+See the [release notes](https://github.com/ElektroStudios/GitHub-Repo-Cloner/releases).
 
 ------------------
 
 ## 🏆 Credits
 
-This work relies on the following technologies, libraries or resources: 
-
- - [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+- [Windows Forms and .NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+- [Git for Windows](https://git-scm.com/install/windows)
+- [GitHub REST API](https://docs.github.com/en/rest)
+- [Ookii.Dialogs.WinForms](https://github.com/ookii-dialogs/ookii-dialogs-winforms) provides the native Windows folder picker.
+- [xUnit.net v3](https://xunit.net/)
 
 ## 💪 Contributing
 
-Your contribution is highly appreciated!. If you have any ideas, suggestions, or encounter issues, feel free to open an issue by clicking [here](https://github.com/ElektroStudios/PROJECT_NAME/issues/new/choose). 
-
-Your input helps make this Work better for everyone. Thank you for your support! 🚀
+Please [open an issue](https://github.com/ElektroStudios/GitHub-Repo-Cloner/issues/new/choose) to report a bug or suggest an improvement.
 
 ## 💰 Beyond Contribution
 
@@ -151,5 +162,3 @@ Furthermore, this project operates entirely independently. The utilization of an
 This software may interact with third-party services, websites, or platforms. It is the user's sole responsibility to ensure that such use complies with the applicable terms of service, laws, and regulations. The authors do not endorse, and are not responsible for, any misuse of this software to violate third-party terms of service or applicable law.
 
 By using this software, you agree to indemnify and hold harmless the authors from any claims, damages, or liabilities arising from your use or misuse of it.
-
-This project is licensed under the **Apache License, Version 2.0**. See the  [License](./LICENSE) file for details.

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="GitHub Repo Cloner/GitHub Repo Cloner.vbproj" Id="39919b38-605e-4b0e-8d16-9944f89413a7" />
+  <Project Path="Core/Cloner.Core.vbproj" />
+  <Project Path="Tests/Cloner.Tests.vbproj" />
+</Solution>

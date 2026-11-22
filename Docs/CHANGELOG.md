@@ -1,12 +1,4 @@
-﻿# REPOSITORY NAME Change Log 📋
+﻿# GitHub Repo Cloner Log 📋
 
-## v1.1 *(current)* 🆕
-#### 🚀 New Features:
-    • Description
-#### 🛠️ Fixes:
-    • Description
-#### 🌟 Improvements:
-    • Description
-
-## v1.0 🔄
+## v1.0
 Initial Release.
